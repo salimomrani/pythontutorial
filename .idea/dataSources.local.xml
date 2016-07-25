@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Django default" uuid="b21c1feb-2ba0-4d08-b6f6-5b04a05b17b7">
+      <user-name>myprojectdbuser</user-name>
+      <user-password>dfd9dfcbdfc6dfc3dfc7</user-password>
+      <introspection-scope>myprojectdb:myprojectdbuser,pg_catalog,public</introspection-scope>
+      <resolve-scope>myprojectdb:myprojectdbuser,public</resolve-scope>
+    </data-source>
+  </component>
+</project>

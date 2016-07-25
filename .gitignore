@@ -1,0 +1,17 @@
+# File types #
+##############
+*.pyc
+*.swo
+*.swp
+*.swn
+
+
+# Directories #
+###############
+
+
+# Specific files #
+##################
+/mysite/settings.py
+/mysite/.idea
+Supprimerait .gitignore
